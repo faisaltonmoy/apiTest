@@ -119,66 +119,6 @@
         "tags": ["react", "vue", "javascript"],
         "likes": 1.3,
         "unlikes": 0
-    },
-    {
-        "id": 9,
-        "title": "Sass and BEM for beginners",
-        "description": "In this video I'll walk you through the basics of Sass, BEM (block-element-modifier), and the principles of responsive design. This is a standalone course in Sass that's taken from my full course, Responsive Design for Beginners.",
-        "author": "Coder Coder",
-        "avatar": "https://yt3.googleusercontent.com/ytc/AL5GRJUjabKfmBe35Ftzfpqrjwtl7xYFk-tpisGTLkH3SQ=s176-c-k-c0x00ffffff-no-rj",
-        "date": "Apr 20, 2022",
-        "duration": "03:45:09",
-        "views": "148.2k",
-        "link": "https://www.youtube.com/embed/jfMHA8SqUL4",
-        "thumbnail": "https://i3.ytimg.com/vi/jfMHA8SqUL4/maxresdefault.jpg",
-        "tags": ["sass", "css", "ui"],
-        "likes": 5.2,
-        "unlikes": 0
-    },
-    {
-        "id": 10,
-        "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
-        "description": "This Edureka Machine Learning Full Course video will help you understand and learn Machine Learning Algorithms in detail. This Machine Learning Tutorial is ideal for both beginners as well as professionals who want to master Machine Learning Algorithms",
-        "author": "edureka",
-        "avatar": "https://yt3.googleusercontent.com/OtB--dcR_oNUZUaUsuyk2ShT5nFYjEcj9Yxx50-Nner03vXKt4IWXtP--JrnSGQbwRSHYuVb38g=s176-c-k-c0x00ffffff-no-rj",
-        "date": "Sep 22, 2019",
-        "duration": "09:38:31",
-        "views": "2.6M",
-        "link": "https://www.youtube.com/embed/GwIo3gDZCVQ",
-        "thumbnail": "https://i3.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg",
-        "tags": ["data_science", "beginner"],
-        "likes": 48,
-        "unlikes": 0
-    },
-    {
-        "id": 11,
-        "title": "VS Code Snippets - Boost your productivity with User Snippets",
-        "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
-        "author": "Learn with Sumit",
-        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-        "date": "Apr 25, 2022",
-        "duration": "10:15",
-        "views": "13k",
-        "link": "https://www.youtube.com/embed/N-U6AVcIPy4",
-        "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
-        "tags": ["vscode", "development", "web"],
-        "likes": 1,
-        "unlikes": 0
-    },
-    {
-      "id": 12,
-      "title": "Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial",
-      "description": "একজন Programmer হিসেবে যতো tool নিয়েই কাজ করেন না কেন, তার মধ্যে সবচেয়ে গুরুত্বপূর্ণ tool হলো git! তাই Beginners দের জন্য git এর এই Crash Course টি নিয়ে আসলাম। এই Tutorial এ আমি git এবং GitHub কি, Installation, Initilization, Cloning, Status, Add, Reset, Commit, Remove, Branching, Merging, Push, Pull & Fetch নিয়ে আলোচনা করেছি। এগুলোই মূলত একজন Programmer এর জানা প্রয়োজন হয়। আশা করি ভিডিওটি আপনাদের ভালো লাগবে।",
-      "author": "Learn with Sumit",
-      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
-      "date": "Dec 11, 2020 ",
-      "duration": "01:01:14",
-      "views": "189.9k",
-      "link": "https://www.youtube.com/embed/oe21Nlq8GS4",
-      "thumbnail": "https://i3.ytimg.com/vi/oe21Nlq8GS4/maxresdefault.jpg",
-      "tags": ["development", "git"],
-      "likes": 6.8,
-      "unlikes": 0
     }
   ],
   "tags": [
@@ -196,7 +136,7 @@
       },
       {
           "id": 4,
-          "title": "vscode"
+          "title": "roadmaps"
       },
       {
           "id": 5,
@@ -212,7 +152,7 @@
       },
       {
           "id": 8,
-          "title": "sass"
+          "title": "development"
       },
       {
           "id": 9,
@@ -229,18 +169,6 @@
       {
         "id": 12,
         "title": "beginner"
-      },
-      {
-        "id": 13,
-        "title": "roadmaps"
-      },
-      {
-        "id": 14,
-        "title": "development"
-      },
-      {
-        "id": 15,
-        "title": "git"
       }
   ]
 }
